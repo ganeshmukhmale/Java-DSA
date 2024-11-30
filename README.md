@@ -1,10 +1,10 @@
 # Java-DSA
 🚀 Comprehensive Collection of Data Structures and Algorithms in Java
 
-About the Repository
+# About the Repository
 This repository contains a well-organized collection of Java programs focusing on various Data Structures and Algorithms. Each program is implemented with a clean, modular, and efficient approach to enhance readability and performance.
 
-Features
+# Features
 ✅ Implementation of fundamental data structures:
 
 Arrays
@@ -22,10 +22,11 @@ Recursion-based solutions
 ✅ Solutions to competitive programming problems
 ✅ Well-commented and beginner-friendly code
 
-Getting Started
+# Getting Started
 Clone the repository:
 bash
 Copy code
 git clone https://github.com/<username>/java-dsa.git
 Navigate to a specific topic and run the programs.
-IDEs like IntelliJ IDEA or Eclipse are recommended.
+
+* IDEs like IntelliJ IDEA or Eclipse are recommended.
