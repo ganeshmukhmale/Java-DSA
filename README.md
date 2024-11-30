@@ -23,10 +23,10 @@ Recursion-based solutions
 ✅ Well-commented and beginner-friendly code
 
 # Getting Started
-Clone the repository:
-bash
+* Clone the repository:
+- bash
 Copy code
-git clone https://github.com/<username>/java-dsa.git
-Navigate to a specific topic and run the programs.
+* git clone https://github.com/<username>/java-dsa.git
+* Navigate to a specific topic and run the programs.
 
 * IDEs like IntelliJ IDEA or Eclipse are recommended.
