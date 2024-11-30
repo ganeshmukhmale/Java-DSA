@@ -6,19 +6,19 @@ This repository contains a well-organized collection of Java programs focusing o
 
 # Features
 ✅ Implementation of fundamental data structures:
-
-Arrays
-Linked Lists
-Stacks
-Queues
-Trees (Binary Trees, BST, etc.)
-Graphs
+* Arrays
+* Linked Lists
+* Stacks
+* Queues
+* Trees (Binary Trees, BST, etc.)
+* Graphs
+  
 ✅ Algorithm implementations:
-
-Sorting (Bubble, Merge, Quick, etc.)
-Searching (Binary Search, Depth-First Search, Breadth-First Search, etc.)
-Dynamic Programming (Knapsack, Longest Common Subsequence, etc.)
-Recursion-based solutions
+* Sorting (Bubble, Merge, Quick, etc.)
+* Searching (Binary Search, Depth-First Search, Breadth-First Search, etc.)
+* Dynamic Programming (Knapsack, Longest Common Subsequence, etc.)
+* Recursion-based solutions
+  
 ✅ Solutions to competitive programming problems
 ✅ Well-commented and beginner-friendly code
 
@@ -26,7 +26,7 @@ Recursion-based solutions
 * Clone the repository:
 - bash
 Copy code
-* git clone https://github.com/<username>/java-dsa.git
+* https://github.com/ganeshmukhmale/Java-DSA.git
 * Navigate to a specific topic and run the programs.
 
 * IDEs like IntelliJ IDEA or Eclipse are recommended.
