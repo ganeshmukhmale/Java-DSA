@@ -1,0 +1,19 @@
+// Write a program to print Addition of 1 to n Number.
+
+package Looping;
+
+import java.util.Scanner;
+public class Sum_1toN
+{
+	public static void main(String[] args) {
+		Scanner sc= new Scanner(System.in);
+		System.out.println("Enter the value:");
+		int no=sc.nextInt();
+		int sum=0;
+		for(int i=1;i<=no;i++){
+		    sum=sum+i;
+		}
+		System.out.println("Additon of 1 to N is:  "+sum);
+	
+	}
+}
